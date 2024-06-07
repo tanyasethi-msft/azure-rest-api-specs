@@ -422,7 +422,7 @@
                 "type": "string",
                 "format": "date-time-rfc1123"
               },
-              "ETag": {
+              "etag": {
                 "description": "An HTTP entity tag associated with the filesystem.  Changes to filesystem properties affect the entity tag, but operations on files and directories do not.",
                 "type": "string"
               },
