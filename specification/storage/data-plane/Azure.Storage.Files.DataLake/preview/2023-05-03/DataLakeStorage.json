@@ -3321,7 +3321,7 @@
         "lastModified": {
           "type": "string"
         },
-        "eTag": {
+        "etag": {
           "type": "string"
         },
         "contentLength": {
